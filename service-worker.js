@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DigDrum/precache-manifest.7b2df314863b5cc78295c9c864bc4320.js"
+  "/DigDrum/precache-manifest.4abba292a3b58dc9d743271215ec3341.js"
 );
 
 workbox.clientsClaim();
